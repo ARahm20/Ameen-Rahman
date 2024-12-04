@@ -1,5 +1,5 @@
 # Ameen-Rahman
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 # 💫 About Me:
 I am currently working on a a mobile and desktop application to enhance community engagement by providing real-time updates on janazah (funeral prayer) services. The application features an interactive map displaying nearby janazah locations, including masjid details and prayer times. Implemented a user-friendly interface and custom notification system to ensure timely alerts for users, fostering accessibility and support within the community. Demonstrated expertise in integrating location-based services and real-time data synchronization across platforms.
 
